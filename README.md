@@ -1,5 +1,5 @@
 # python_projects_scratch_to_advanced
-This is my projects from scratch to advanced level, since I have started learning Python programming language.
+This is my projects from scratch to advanced level, since I have started learning Python programming language. I am slow learner and I commit minor changes/programs/codes likewise.
 
 Program 1 - User input for even or odd numbers (user_input_even_odd.py)</br>
 Program 2 - User input for largest of two numbers (user_input_largest_of_two_numbers.py)</br>
