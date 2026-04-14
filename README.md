@@ -7,3 +7,4 @@ Program 3 - User input to find the number positive/negative or zero (user_input_
 Program 4 - User input to check grades if passed / did good / averaged or failed (user_input_check_grades.py)</br>
 Program 5 - for loop to enter 1-10 numbers (for_loop_ten_numbers.py)</br>
 Program 6 - to check sum of all numbers (check_sum_of_total_numbers.py)</br>
+Program 7 - user input to check multiplication table (user_input_multiplication_table.py)</br>
