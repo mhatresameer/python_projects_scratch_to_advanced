@@ -6,3 +6,4 @@ Program 2 - User input for largest of two numbers (user_input_largest_of_two_num
 Program 3 - User input to find the number positive/negative or zero (user_input_number_positive_negative_zero.py)</br>
 Program 4 - User input to check grades if passed / did good / averaged or failed (user_input_check_grades.py)</br>
 Program 5 - for loop to enter 1-10 numbers (for_loop_ten_numbers.py)</br>
+Program 6 - to check sum of all numbers (check_sum_of_total_numbers.py)</br>
