@@ -8,3 +8,5 @@ Program 4 - User input to check grades if passed / did good / averaged or failed
 Program 5 - for loop to enter 1-10 numbers (for_loop_ten_numbers.py)</br>
 Program 6 - to check sum of all numbers (check_sum_of_total_numbers.py)</br>
 Program 7 - user input to check multiplication table (user_input_multiplication_table.py)</br>
+Program 8 - user input to check square of the number (user_input_square_of_number.py) </br>
+Program 9 - user input to count vowels (user_input_count_vowels.py)</br>
