@@ -12,3 +12,4 @@ Program 8 - user input to check square of the number (user_input_square_of_numbe
 Program 9 - user input to count vowels (user_input_count_vowels.py)</br>
 Program 10 - print numbers from 1 to 100 using for loop (print_1_to_100.py)</br>
 Program 11 - print only even numbers from 1 to 50 using for and if loop (print_even_only_1_to_50.py)</br>
+Program 12 - user input to reverse a string using for and if loop (user_input_reverse_a_string.py)</br>
