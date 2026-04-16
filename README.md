@@ -15,5 +15,20 @@ Program 11 - print only even numbers from 1 to 50 using for and if loop (print_e
 Program 12 - user input to reverse a string using for and if loop (user_input_reverse_a_string.py)</br>
 Program 13 - user input to check the factorial of entered number (uer_input_to_check_factorial.py)</br>
 
-PATTERNS :</br>
+PATTERNS : EASY (1-15)</br>
 Program 14 - print pattern >> towards right stars (right_angle_stars.py)</br>
+
+Inverted triangle
+Square
+Rectangle
+Number triangle
+Same number triangle
+Alphabet triangle (A, B, C…)
+Reverse number triangle
+Triangle with spaces
+Continuous stars in one line
+Increasing odd numbers
+Increasing even numbers
+Row-wise same numbers
+Column-wise numbers
+Star triangle using while loop
