@@ -15,5 +15,5 @@ Program 11 - print only even numbers from 1 to 50 using for and if loop (print_e
 Program 12 - user input to reverse a string using for and if loop (user_input_reverse_a_string.py)</br>
 Program 13 - user input to check the factorial of entered number (uer_input_to_check_factorial.py)</br>
 
-PATTERNS :
+PATTERNS :</br>
 Program 14 - print pattern >> towards right stars (pattern_right_side_stars.py)</br>
