@@ -16,4 +16,4 @@ Program 12 - user input to reverse a string using for and if loop (user_input_re
 Program 13 - user input to check the factorial of entered number (uer_input_to_check_factorial.py)</br>
 
 PATTERNS :</br>
-Program 14 - print pattern >> towards right stars (pattern_right_side_stars.py)</br>
+Program 14 - print pattern >> towards right stars (right_angle_stars.py)</br>
