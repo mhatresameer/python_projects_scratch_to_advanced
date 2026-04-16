@@ -10,3 +10,5 @@ Program 6 - to check sum of all numbers (check_sum_of_total_numbers.py)</br>
 Program 7 - user input to check multiplication table (user_input_multiplication_table.py)</br>
 Program 8 - user input to check square of the number (user_input_square_of_number.py) </br>
 Program 9 - user input to count vowels (user_input_count_vowels.py)</br>
+Program 10 - print numbers from 1 to 100 using for loop (print_1_to_100.py)</br>
+Program 11 - print only even numbers from 1 to 50 using for and if loop (print_even_only_1_to_50.py)</br>
