@@ -16,9 +16,9 @@ Program 12 - user input to reverse a string using for and if loop (user_input_re
 Program 13 - user input to check the factorial of entered number (uer_input_to_check_factorial.py)</br>
 
 PATTERNS : EASY (1-15)</br>
-Program 14 - print pattern >> towards right stars (right_angle_stars.py)</br>
+Program 14 - print pattern >> right angle triangle with stars (right_angle_triangle_with_stars.py)</br>
+Program 15 - print pattern >> inverted angle triangle with stars (inverted_angle_triangle_with_stars.py)</br>
 
-Inverted triangle
 Square
 Rectangle
 Number triangle
