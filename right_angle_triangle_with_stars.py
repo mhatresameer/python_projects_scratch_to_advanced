@@ -1,4 +1,4 @@
-# Print pattern >> towards right side:
+# print pattern >> right angle triangle with stars:
 # *
 # **
 # ***
